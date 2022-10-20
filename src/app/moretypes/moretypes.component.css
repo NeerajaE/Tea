@@ -1,0 +1,33 @@
+body{
+    color:green;
+    font-size:18px;
+    margin-top:60px;
+    }
+    div{
+    position:absolute;
+    left:420px;
+    top:190px;
+    
+    }
+    #a{
+    position:absolute;
+    left:420px;
+    top:390px;
+    }
+    #b{
+    position:absolute;
+    left:420px;
+    top:580px;
+    }
+    #d{
+    position:absolute;
+    left:420px;
+    top:840px;
+    }
+    h2{
+        text-align: right;
+        position:relative;
+        top:100px;
+        color:black;
+        font-size:15px;
+    }
